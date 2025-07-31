@@ -70,7 +70,7 @@ public class BoardController {
 				e.printStackTrace();
 			}
 			//4. 마지막으로 DB에는 경로가 저장된다고 했죠? DB에 저장될 경로 문자열로 설정
-			imgPath = "/uploads/"+fileName;
+			imgPath = "/home/git/uploads/"+fileName;
 			
 		
 		}
